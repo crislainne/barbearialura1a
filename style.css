@@ -1,7 +1,7 @@
 body{
    
-    { 
-        #banner}
+     } 
+        #banner{ 
     width:100%;
 }
 .principal
@@ -25,9 +25,21 @@ body{
     font-style: italic;
 }
 .beneficios{
-    background-color: rgb(219, 6, 219)
+    background-color: #ffffff
     padding: 20px;
 }
 em strong{
-    color: rgba(242, 0, 255, 0.429);
+    color: aqua
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top
+    width 20px
+    margin right 15%
+}
+.imagembeneficios{
+    width: 50%;
 }
